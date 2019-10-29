@@ -1,7 +1,7 @@
-# Create and Host a resume with GitHub
-For this project you will need a few basic tools to successfully create and Host a resume on the internet. Some of the tools include Atom (a text editor), Jekyll and GitHub. Read more below to see how this can be done.
+# Create and host a resume with GitHub
+For this project you will need a few basic tools to successfully create and host a resume on the internet. Some of the tools include Atom (a text editor), Jekyll(static site generator) and GitHub(software development host). Read more below to see how to use these tools to complete the project.
 
-## Getting Started
+## Getting started
 The instructions below will help you with how the project can be successfully implemented. See Resume Tips for tips on how to make your resume attractive.
 
 ### Intended audience
@@ -24,7 +24,7 @@ After downloading the appropriate zip file that is compatible with your computer
 1. Open the file location where the downloaded zip file is.
 2. Unzip the folder to get access to the files.
 3. After unzipping the folder, look for AtomSetup.exe and double click to run the installer.
-4. Once the installation is complete, see notes on Operating below.
+4. Once the installation is complete, close the installer and open Atom.
 
 ### Instructions
 You do not need to make any configuration changes to be able to use Atom for creating your resume. Follow the steps below to create and publish the resume.
@@ -33,13 +33,13 @@ You do not need to make any configuration changes to be able to use Atom for cre
 
   1. Login to your GitHub account and click on [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/new-png.PNG)](#)
 
-  2. Name your repository in the following format, _username.github.io_, where username your username of the account.
+  2. Name your repository in the following format, _username.github.io_, where _username_ is the username of your account.
    [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/create-rep.PNG)](#)
 
   3. Put in a description if you wish so, make sure to keep the repository **public** and select the check box with the title "Initialize this repository with a README" and click on [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/repository.PNG)](#).
    [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/create-public.PNG)](#)
 
-  4. if you decided earlier to use the GitHub editor, then select the create new file and name it "index.md", type your resume and commit new file at the bottom of the page. Skip to part 4 if you selected this option.
+  4. If you decided earlier to use the GitHub editor, then click on "create new file" and name it "index.md", type your resume and commit new file at the bottom of the page. Click on preview changes to see a version of your final file. Skip to part 4 if you selected this option.
 
 #### Step 2 - Create a resume in Atom text editor
 
@@ -48,7 +48,7 @@ You do not need to make any configuration changes to be able to use Atom for cre
 
   2. Select File and click on save, name the file "index.md".
 
-  3. Type your resume into Atom, remember in markdown format.
+  3. Type your resume into Atom, remember in markdown format. To preview your document hit ctrl-shift-m.
 
   4. Finally save the file and create a new file and name it "README.md", if you want to provide any useful comments or remarks for people who will view your project, put this information in the new file.
   5. Save both files.
@@ -73,17 +73,22 @@ You do not need to make any configuration changes to be able to use Atom for cre
 
   5. If you'd like to have a custom domain name for you site, return back to the GitHub Pages section in settings and click on the enter your custom domain name and hit save.
 
+#### Step 5. Making changes to the Jekyll theme (optional)
+If you wish to edit a few aspects of the theme follow the steps below.
+  1. Open the __config.yml__ file in your repository and elements that you would like to add, for example to add a title, type "Title: my new title"
+  2. You can also instead fork a Jekyll theme that you found in someone's repository, to do so open thier repsitory and click on "fork" and then submit changes to import their theme.
+
 #### Troubleshooting and tips
 
 There can be a few places where you might find yourself stuck with a problem that you cannot find a solution to. Here are a few issues I faced myself and how to go about them.
 * Issues with the links of your site. This would mainly occur if you have not selected the correct branch to Host in the settings, or your repository is private, for free Hosts the repository needs to be public.
 * if you are facing issues with markdown, try looking at the prerequisites notes to find tutorials on how to write in markdown.
 
-#### More Resources
+#### More resources
 * If you need any help with GitHub, check out this [support page](https://help.github.com/en/github/working-with-github-pages/about-github-pages "GitHub Help")
 * To get more extended information on markdown, check out this [helpful documentation](https://www.markdownguide.org/extended-syntax/)
 
-#### Credits and Acknowledgments
+#### Credits and acknowledgments
 Template theme credits -  [Matt Graham](https://twitter.com/michigangraham)
 
 [Zelin Qui](www.github.com/Zelin-qiu)
