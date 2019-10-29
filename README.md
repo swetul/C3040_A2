@@ -31,7 +31,7 @@ You do not need to make any configuration changes to be able to use Atom for cre
 
 #### Step 1 - Creating and maintaining a GitHub repository.
 
-  1. Login to your GitHub account and click on ![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/new-png.PNG | width=100)
+  1. Login to your GitHub account and click on ![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/new-png.png | width=100)
 
   2. Name your repository in the following format, _username.github.io_, where username your username of the account.
 
