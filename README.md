@@ -34,20 +34,17 @@ You do not need to make any configuration changes to be able to use Atom for cre
   1. Login to your GitHub account and click on [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/new-png.PNG)](#)
 
   2. Name your repository in the following format, _username.github.io_, where username your username of the account.
-  
-  [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/create-rep.PNG)](#)
+   [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/create-rep.PNG)](#)
 
   3. Put in a description if you wish so, make sure to keep the repository **public** and select the check box with the title "Initialize this repository with a README" and click on [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/repository.PNG)](#).
-  
-  [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/create-public.PNG)](#)
+   [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/create-public.PNG)](#)
 
   4. if you decided earlier to use the GitHub editor, then select the create new file and name it "index.md", type your resume and commit new file at the bottom of the page. Skip to part 4 if you selected this option.
 
 #### Step 2 - Create a resume in Atom text editor
 
   1. Open the Atom text editor and click on "file", under file select "New File".
-  
-  [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/atom-new.PNG)](#)
+   [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/atom-new.PNG)](#)
 
   2. Select File and click on save, name the file "index.md".
 
@@ -61,15 +58,14 @@ You do not need to make any configuration changes to be able to use Atom for cre
   1. Login to your account and select the repository created in step 1.
 
   2. Click on upload files, then drag and drop the files from your computer to the repository and select commit changes.
-  
-  [![new](https://github.com/swetul/C3040_A2/blob/master/IMG/panel-1.PNG)](#)
+   [![new](https://github.com/swetul/C3040_A2/blob/master/IMG/panel-1.PNG)](#)
 
 #### Step 4. Changing the theme on the resume
 
   1. Select the [![new](https://github.com/swetul/C3040_A2/blob/master/IMG/settings-1.PNG)](#) option on your repository.
 
   2. Scroll down to the GitHub pages section and choose source to master branch.
-  [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/pages-git.PNG)](#)
+    [![NEW](https://github.com/swetul/C3040_A2/blob/master/IMG/pages-git.PNG)](#)
 
   3. Click on change theme and once the page opens select a theme that you like and click select theme."pages-git-update"
 
