@@ -87,6 +87,13 @@ There can be a few places where you might find yourself stuck with a problem tha
 #### More resources
 * If you need any help with GitHub, check out this [support page](https://help.github.com/en/github/working-with-github-pages/about-github-pages "GitHub Help")
 * To get more extended information on markdown, check out this [helpful documentation](https://www.markdownguide.org/extended-syntax/)
+#### FAQs(Frequently Asked Questions)
+Can I Host a webpage with a private repository?
+* Yes, However the webpage is still public and can be accessed by anyone with the link.
+Do I need to provide a README file?
+* Generally no, but if you intend to comment on or provide some context for people viewing your webpage it is helpful to have a README file.
+How can I make a custom domain to host my webpage?
+* To create a custom domain, click on "settings" in your repository, then scroll down to the GitHub pages section and type the desired domain name in the "Custom domain" box and hit save.
 
 #### Credits and acknowledgments
 Template theme credits -  [Matt Graham](https://twitter.com/michigangraham)
