@@ -7,7 +7,6 @@ relative_links:
 enabled: true
 collections: true
 include:
-- index.md
 - CONTRIBUTING.md
 - README.md
 - LICENSE.md
