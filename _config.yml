@@ -1,11 +1,2 @@
 theme: jekyll-theme-slate
 title: Resume for Swetul Patel
-
-plugins:
-- jekyll-relative-links
-relative_links:
-enabled: true
-collections: true
-include:
-- index.md
-- README.md
