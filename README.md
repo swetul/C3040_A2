@@ -1,32 +1,32 @@
-# Create and host a resume with GitHub
-For this project you will need a few basic tools to successfully create and host a resume on the internet. Some of the tools include Atom (a text editor), Jekyll(static site generator) and GitHub(software development host). Read more below to see how to use these tools to complete the project.
+# **Create and host a resume with GitHub**
+For this project you will need a few basic tools to successfully **create and host a resume** on the internet. Some of the tools include **Atom (a text editor), Jekyll(static site generator)** and **GitHub(software development host)**. Read more below to see how to use these tools to complete the project.
 
-## Getting started
+## **Getting started**
 The instructions below will help you with how the project can be successfully implemented. See Resume Tips for tips on how to make your resume attractive.
 
-### Intended audience
+### **Intended audience**
 Ideally, this README is to help people who would like to host their resume online but have limited or no experience in tools such as GitHub, Atom, Markdown and Jekyll. Below will be all the information you will need to successfully complete this project.
 
-### Prerequisites
+### **Prerequisites**
 Here are a few things you will need to do before you start this project.
 1. You will need a general understanding on how to write your resume using markdown, complete the following tutorial on how to [write using markdown](https://guides.GitHub.com/features/mastering-markdown/ "GitHub flavored markdown") or [learn the basic syntax](https://www.markdownguide.org/basic-syntax/) for markdown.
 2. You will need to create a [GitHub account](https://GitHub.com/join?source=header-home "create an account") to host this project.
 3. You can use the online GitHub editor to create your resume but I recommend you download [Atom](https://GitHub.com/atom/atom/releases/tag/v1.41.0 "Atom download"), a text editor, see installation for how to install and notes.
 
-### Resume tips
+### **Resume tips**
 Resumes can be a complicated document to create, below are some links that can help you create, modify or get general tips on resumes.
 * Resume guidelines from [University of Manitoba](https://umanitoba.ca/student/careerservices/media/Resume.pdf)
 * How to improve your resume to suit ATS filtering, https://www.linkedin.com/pulse/ats-resumes-fact-fiction-adrienne-tom-cerm-mcrs/
 * Or, download existing [markdown resume templates](https://mszep.GitHub.io/pandoc_resume/) to use instead.
 
-### Installation
+### **Installation**
 After downloading the appropriate zip file that is compatible with your computer, follow the general steps below to install Atom.
 1. Open the file location where the downloaded zip file is.
 2. Unzip the folder to get access to the files.
 3. After unzipping the folder, look for AtomSetup.exe and double click to run the installer.
 4. Once the installation is complete, close the installer and open Atom.
 
-### Instructions
+### **Instructions**
 You do not need to make any configuration changes to be able to use Atom for creating your resume. Follow the steps below to create and publish the resume.
 
 #### Step 1 - Creating and maintaining a GitHub repository.
@@ -78,18 +78,23 @@ If you wish to edit a few aspects of the theme follow the steps below.
   1. Open the __config.yml__ file in your repository and elements that you would like to add, for example to add a title, type "Title: my new title"
   2. You can also instead fork a Jekyll theme that you found in someone's repository, to do so open thier repsitory and click on "fork" and then submit changes to import their theme.
 
-#### Troubleshooting and tips
+#### Troubleshooting and Tips
 
 There can be a few places where you might find yourself stuck with a problem that you cannot find a solution to. Here are a few issues I faced myself and how to go about them.
 * Issues with the links of your site. This would mainly occur if you have not selected the correct branch to Host in the settings, or your repository is private, for free Hosts the repository needs to be public.
 * if you are facing issues with markdown, try looking at the prerequisites notes to find tutorials on how to write in markdown.
 
-#### More resources
-* If you need any help with GitHub, check out this [support page](https://help.github.com/en/github/working-with-github-pages/about-github-pages "GitHub Help")
-* To get more extended information on markdown, check out this [helpful documentation](https://www.markdownguide.org/extended-syntax/)
-#### FAQs(Frequently Asked Questions)
+#### More Resources
+
+| Topic                          | Links                                                                            |
+| -------------                  |:-------------:                                                                   |
+| Getting Started With Atom      | https://www.codecademy.com/articles/f1-text-editors                              |
+| GitHub Support page            | https://help.github.com/en/github/working-with-github-pages/about-github-pages   |
+| Extended Markdown syntax       | https://www.markdownguide.org/extended-syntax/                                   |
+
+#### **FAQs(Frequently Asked Questions)**
 Can I Host a webpage with a private repository?
-* Yes, However the webpage is still public and can be accessed by anyone with the link.
+* **Yes**, However the webpage is still public and can be accessed by anyone with the link.
 
 Do I need to provide a README file?
 * Generally no, but if you intend to comment on or provide some context for people viewing your webpage it is helpful to have a README file.
@@ -97,10 +102,10 @@ Do I need to provide a README file?
 How can I make a custom domain to host my webpage?
 * To create a custom domain, click on "settings" in your repository, then scroll down to the GitHub pages section and type the desired domain name in the "Custom domain" box and hit save.
 
-#### Credits and acknowledgments
+#### **Credits and Acknowledgments**
 Template theme credits -  [Matt Graham](https://twitter.com/michigangraham)
 
-[Zelin Qui](www.github.com/Zelin-qiu)
+Revised and edited by **[Zelin Qui](www.github.com/Zelin-qiu)**
 
 #### Contact information
 Email me at "patels15@myumanitoba.ca" if you find any issues with this file or the project in general.
