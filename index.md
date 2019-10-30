@@ -1,4 +1,4 @@
-<p><img src="me.jpeg" width = "150" height = "150" float = "left" /></p>
+<p><img src="./me.jpeg" width = "150" height = "150" float = "left" /></p>
 
 
 ### Software Engineer /Data scientist
