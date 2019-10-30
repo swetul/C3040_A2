@@ -1,5 +1,5 @@
-## SWETUL PATEL
-### (204) 914 3263
+### Software Engineer /Data scientist
+### (204) 914-3263
 ### Swetulpatel@gmail.com
 ### Winnipeg, Manitoba
 ## Objective
