@@ -4,7 +4,7 @@
 ### Software Engineer /Data scientist
 ### (204) 914-3263
 ### Swetulpatel@gmail.com
-### Winnipeg, Manitoba
+### Winnipeg, Manitoba ca
 ## Objective
  Seeking a suitable position that will enable me to utilize my knowledge, skills and experience in a dynamic environment to help achieve company interests.
 ## Skills and Abilities
