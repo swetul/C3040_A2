@@ -1,3 +1,6 @@
+<img src="https://github.com/swetul/C3040_A2/blob/master/me.jpeg" style = "width:150px height:150px float:left" />
+
+
 ### Software Engineer /Data scientist
 ### (204) 914-3263
 ### Swetulpatel@gmail.com
