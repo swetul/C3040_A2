@@ -1,7 +1,7 @@
-### Software Engineer /Data scientist
+### Software Engineer/Data scientist
 ### (204) 914-3263
 ### Swetulpatel@gmail.com
-### Winnipeg, Manitoba ca
+### Winnipeg, Manitoba.
 ## Objective
  Seeking a suitable position that will enable me to utilize my knowledge, skills and experience in a dynamic environment to help achieve company interests.
 ## Skills and Abilities
@@ -23,7 +23,7 @@ Expected date of completion: September 2020.
 
 ## Work Experience
 ### Special Services Associate
-#### Home Depot Canada								Jun 2016 – Present
+#### Home Depot Canada								**Jun 2016 – Present**
 *	Following all customer order management orders from beginning to end until the customer is satisfied.
 *	Performing tasks on special Order, will call, install, delivery and website orders to ensure they are completed in a timely manner.
 *	Ensure customers receive products and services in a timely and accurate manner.
@@ -36,7 +36,7 @@ Expected date of completion: September 2020.
 *	Ensuring order pick-up and customer service desk runs smoothly.
 
 ### Signage supervisor
-#### Winnipeg Football Club							**October 2015 – Present**
+#### Winnipeg Football Club							**Oct 2015 – Present**
 *	Managing a team to ensure signage is picked up and deployed accurately.
 *	Improving existing plans that improve signage posting locations to ensure fans have appropriate information to find parking on game day and events.
 *	Ensuring tasks are done in a safe and respectful environment.
