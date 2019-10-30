@@ -1,4 +1,4 @@
-# **Create and host a resume with GitHub**
+# **Create and Host a Resume With GitHub**
 For this project you will need a few basic tools to successfully **create and host a resume** on the internet. Some of the tools include **Atom (a text editor), Jekyll(static site generator)** and **GitHub(software development host)**. Read more below to see how to use these tools to complete the project.
 
 ## **Getting started**
