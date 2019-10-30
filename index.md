@@ -1,6 +1,3 @@
-<p><img src="./me.jpeg" width = "150" height = "150" align = "left" /></p>
-
-
 ### Software Engineer /Data scientist
 ### (204) 914-3263
 ### Swetulpatel@gmail.com
