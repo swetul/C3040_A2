@@ -1,4 +1,4 @@
-<img src="https://github.com/swetul/C3040_A2/blob/master/me.jpeg" style = "width:150px height:150px float:left" />
+<img src="https://github.com/swetul/C3040_A2/blob/master/me.jpeg" width = "150" height = "150" float = "left" />
 
 
 ### Software Engineer /Data scientist
