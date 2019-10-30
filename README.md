@@ -73,12 +73,12 @@ You do not need to make any configuration changes to be able to use Atom for cre
 
   4. Scroll back down to the GitHub Pages section and click on the **auto-generated link of your site** to view your resume site or simply type, **_https: //username.github.io_**, where username is your username, in the browser to get to the site.
 
-  5. If you'd like to have a custom domain name for you site, return back to the GitHub Pages section in settings and click on the enter your custom domain name and hit save.
+  5. If you'd like to have a custom domain name for you site, return back to the **GitHub Pages section in settings** and click on the **custom domain box** and enter your custom domain name and hit **save**.
 
 #### Step 5. Making changes to the Jekyll theme (optional)
 If you wish to edit a few aspects of the theme follow the steps below.
   1. Open the __config.yml__ file in your repository and elements that you would like to add, for example to add a title, type "Title: my new title"
-  2. You can also instead fork a Jekyll theme that you found in someone's repository, to do so open thier repsitory and click on "fork" and then submit changes to import their theme.
+  2. You can also instead **fork a Jekyll theme** that you found in someone's repository, to do so open thier repsitory and click on "fork" and then submit changes to import their theme.
 
 #### **Troubleshooting and Tips**
 
