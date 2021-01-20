@@ -34,8 +34,8 @@ Expected date of completion: Spring 2021.
 *	Previously performed daily reports of store markdowns, orders and returns, before it was automated.
 *	Ensuring order pick-up and customer service desk runs smoothly.
 
-### Signage supervisor
-#### Winnipeg Football Club							**Oct 2015 – Present**
+### Signage supervisor (Seasonal)
+#### Winnipeg Football Club(For the #W)							**Oct 2015 – Present**
 *	Managing a team to ensure signage is picked up and deployed accurately.
 *	Improving existing plans that improve signage posting locations to ensure fans have appropriate information to find parking on game day and events.
 *	Ensuring tasks are done in a safe and respectful environment.
@@ -44,15 +44,7 @@ Expected date of completion: Spring 2021.
 *	Patrolling closed roadways to ensure they remain closed and can only be used by emergency vehicles.
 *	Communicating with fellow colleagues through radio to ensure plans are executed on schedule.
 
-### Leadership skills
-*	Senior school prefect and been a board member of my former school student’s council.
-* Former Vice President of the SCLP SAMAJ Lions club union in Kenya.
-*	Volunteer at the international college of Manitoba as a group leader for the new student orientation.
-*	 All these leadership experiences have enabled me develop the art of working in different situations with different people to ensure maximum productivity.
-
 ### Projects
-* Large number calculator(greater than powers of 20) in JAVA.
-* Chess AI(low and medium difficulty level) in JAVA.
-* Mini card game(android).
+* 
 
 # References available upon request
