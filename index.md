@@ -17,7 +17,7 @@
 ## Education
 University of Manitoba.   
 Major: Computer science						   Aug 2015 - Present  
-Expected date of completion: September 2020.
+Expected date of completion: Spring 2021.
 
 
 ## Work Experience
